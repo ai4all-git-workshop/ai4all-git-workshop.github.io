@@ -139,6 +139,7 @@ table th:nth-of-type(2) {
 |`pull`|`show`|
 |`checkout`|`log`|
 |`merge`|`add`|
+|`diff`|`reset`|
 |`push`|`commit`|
 
 
@@ -242,6 +243,18 @@ git add .
 ```
 
 
+## reset
+Removes changes either from staging or completely from file system
+```shell
+# 
+# Un-stage changes but dont remove changes from file system
+git reset 
+# 
+# Un-stage all changes, remove revisions from tree AND remove changes from file system until given revision!
+git reset --hard <HEAD> # OR SHA
+```
+
+
 ## commit
 Creates a new revision in your `local repository` on current branch. 
 **This doesnt update your `remote repository`**
@@ -257,13 +270,41 @@ git commit -am "Adding new data"
 
 
 ## log
-Shows you revision history of a given branch.
+Shows you revision history of a given branch or from given commit/revision.
+```shell
+#
+# Show git revision history from HEAD
+#
+git log
+# 
+# Shows git revision history for a given branch
+git log <BRANCH_NAME>
+```
 
 
 ## push
 Sends your `local repository` changes to  `upstream` of your branch in `remote repository`.
 ```shell
 git push
+```
+
+
+## show
+Displays diff view of a given revision.
+```shell
+#
+# Display diff view of HEAD
+git show
+#
+# Displays diff view of a given revision/commit
+git show <SHA_HASH>
+```
+
+
+## diff
+Displays diff view between two commits
+```shell
+git diff <SHA_HASH_1>..<SHA_HASH_1>
 ```
 
 
@@ -282,6 +323,8 @@ table th:nth-of-type(2) {
 |`rebase`|`stash`|
 |`revert`|`switch`|
 |`cherry-pick`|`gc`|
+|`submodule`|`worktree`|
+
 
 
 
