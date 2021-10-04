@@ -23,6 +23,8 @@ Please respond : https://pollev.com/anujpatel447
 
 
 ### Tips
+Git Bible: https://git-scm.com/book/en/v2
+
 GitHub Student Pack : https://education.github.com/pack
 
 Easy Command Line Explanations : https://explainshell.com
