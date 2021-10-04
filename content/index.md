@@ -267,6 +267,7 @@ git push
 ```
 
 
+
 ### Some advanced Git Commands
 <style>
 table th:first-of-type {
@@ -281,6 +282,7 @@ table th:nth-of-type(2) {
 |`rebase`|`stash`|
 |`revert`|`switch`|
 |`cherry-pick`|`gc`|
+
 
 
 ## [Handy Cheatsheet](https://raw.githubusercontent.com/iPraBhu/ADevGuide/master/Resources/Most%20Common%20Git%20Commands%20Every%20Developer%20Should%20Know%20Cheatsheet.PNG)
