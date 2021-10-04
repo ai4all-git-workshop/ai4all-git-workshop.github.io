@@ -293,6 +293,9 @@ table th:nth-of-type(2) {
 - Issues
 
 
+## Forks
+
+
 ## Pull Requests
 
 
@@ -300,7 +303,7 @@ table th:nth-of-type(2) {
 
 
 
-### Extras
+### Bonus
 - .gitignore file
 - Branch Naming Conventions
 - Commit messages
