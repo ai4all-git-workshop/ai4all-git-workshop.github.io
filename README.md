@@ -1,1 +1,1 @@
-# ai4all-git-workshop.github.io
+# AI4ALL Git Workshop
