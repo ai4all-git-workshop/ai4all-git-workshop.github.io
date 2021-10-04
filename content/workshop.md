@@ -79,7 +79,7 @@ You should see something like following;
 
 
 ## Checkpoint 2
-### Was everyone able to clone the git?
+### Was everyone able to clone the github repo?
 
 
 
