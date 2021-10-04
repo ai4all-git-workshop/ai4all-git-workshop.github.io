@@ -285,9 +285,15 @@ table th:nth-of-type(2) {
 
 
 
-## [Handy Cheatsheet](https://raw.githubusercontent.com/iPraBhu/ADevGuide/master/Resources/Most%20Common%20Git%20Commands%20Every%20Developer%20Should%20Know%20Cheatsheet.PNG)
+## Cheatsheet
+[Link](https://raw.githubusercontent.com/iPraBhu/ADevGuide/master/Resources/Most%20Common%20Git%20Commands%20Every%20Developer%20Should%20Know%20Cheatsheet.PNG)
 
 Credit: [@PraBhu](https://github.com/iPraBhu) on GitHub 
+
+Preview:
+<br/>
+![](https://raw.githubusercontent.com/iPraBhu/ADevGuide/master/Resources/Most%20Common%20Git%20Commands%20Every%20Developer%20Should%20Know%20Cheatsheet.PNG)
+
 
 
 ## GitHUb
