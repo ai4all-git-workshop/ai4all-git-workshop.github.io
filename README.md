@@ -5,6 +5,5 @@
 
 |Name|About|
 |----|-----|
-|Anuj|[content/anuj4all.md]|
-|||
+|Anuj|[About](content/anuj4all.md)|
 |||
